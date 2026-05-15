@@ -1,0 +1,10 @@
+langchain 
+langchain-community 
+langchain-openai
+pypdf 
+faiss-cpu 
+sentence-transformers
+tiktoken
+chromadb
+jupyter
+langchain-text-splitters

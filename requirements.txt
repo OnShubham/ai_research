@@ -8,3 +8,4 @@ tiktoken
 chromadb
 jupyter
 langchain-text-splitters
+fastapi
